@@ -1,24 +1,9 @@
-/* ============================================================
-   ------------------------------------------------------------
-   ASIGNATURA: Fundamentos de Programación
-   TEMA: Series Numéricas y Propiedades Matemáticas
-   GUÍA PRÁCTICA EXPERIMENTAL N.º 3
-   DOCENTE: Msc. Daniel Vera Paredes
-   ------------------------------------------------------------
-   OBJETIVOS:
-   - Aplicar estructuras repetitivas y condicionales.
-   - Comprender series, factoriales y divisores.
-   - Analizar el proceso lógico paso a paso.
-============================================================ */
-
 
 /* ============================================================
    BLOQUE 1 - Ejercicios individuales (un solo número)
-============================================================ */
 
-/* ============================================================
    1) Serie de Fibonacci
-============================================================ */
+
 function serieFibonacci() {
   let n = 8;
   let a = 0;
